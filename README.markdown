@@ -2,6 +2,9 @@
 
 A simple crossword puzzle game built with [Kivy](https://kivy.org), a Python framework for cross-platform app development. This project targets Android deployment, featuring a 5x5 grid with interactive letter input and answer validation. It’s designed for minimal graphics overhead, ideal for Python developers creating lightweight puzzle games.
 
+## Project Management
+The project will be managed using HacknPlan here: https://app.hacknplan.com/p/225329/dashboards/project
+
 ## Features
 - 5x5 crossword grid with active (white) and inactive (black) cells.
 - Single-letter input via `TextInput` widgets, restricted to alphabetic characters.

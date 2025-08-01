@@ -1,0 +1,59 @@
+{
+  "grid": [
+    [
+      {"letter": "C", "number": 1},
+      {"letter": "A", "number": null},
+      {"letter": "T", "number": null},
+      {"letter": "S", "number": 2},
+      {"letter": "K", "number": null}
+    ],
+    [
+      {"letter": "A", "number": 3},
+      {"letter": null, "number": null},
+      {"letter": "R", "number": null},
+      {"letter": "E", "number": null},
+      {"letter": "I", "number": null}
+    ],
+    [
+      {"letter": "P", "number": 4},
+      {"letter": "L", "number": 5},
+      {"letter": "E", "number": null},
+      {"letter": "A", "number": 6},
+      {"letter": "D", "number": null}
+    ],
+    [
+      {"letter": "E", "number": 7},
+      {"letter": null, "number": null},
+      {"letter": "A", "number": null},
+      {"letter": "T", "number": null},
+      {"letter": "S", "number": null}
+    ],
+    [
+      {"letter": "S", "number": 8},
+      {"letter": "O", "number": null},
+      {"letter": "T", "number": null},
+      {"letter": "S", "number": 9},
+      {"letter": "Y", "number": null}
+    ]
+  ],
+  "across_clues": {
+    "1": "Feline pets",
+    "2": "Small barrel",
+    "3": "Not difficult",
+    "4": "Fruit with a core",
+    "6": "Legal argument",
+    "7": "Consumes food",
+    "8": "Grass patches",
+    "9": "Informal yes"
+  },
+  "down_clues": {
+    "1": "Headwear",
+    "3": "Vehicle",
+    "4": "Animal companion",
+    "5": "Not late",
+    "6": "Help",
+    "7": "Finishes",
+    "8": "Plant beginnings",
+    "9": "Playthings"
+  }
+}
